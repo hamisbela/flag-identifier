@@ -4,7 +4,7 @@ import { analyzeImage } from '../lib/gemini';
 import SupportBlock from '../components/SupportBlock';
 
 // Default flag image path
-const DEFAULT_IMAGE = "/default-flag.jpg";
+const DEFAULT_IMAGE = "/default-flag.png";
 
 // Default analysis for the flag
 const DEFAULT_ANALYSIS = `1. Flag Identification:
